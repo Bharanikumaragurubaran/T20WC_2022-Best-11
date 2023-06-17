@@ -1,0 +1,2067 @@
+[
+  {
+    "Name": "Michael van Lingen",
+    "Full Name": "Michael van Lingen",
+    "Age": "25y 213d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Medium, Slow Left arm Orthodox",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Divan la Cock",
+    "Full Name": "Divan la Cock",
+    "Age": "20y 91d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Opening Batter",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Jan Nicol Loftie-Eaton",
+    "Full Name": "Jan Nicol Loftie-Eaton",
+    "Age": "22y 71d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium, Legbreak",
+    "Playing Role": "Batter",
+    "Education": "Paul Roos Gymnansium",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Stephan Baard",
+    "Full Name": "Stephan Julian Baard",
+    "Age": "31y 26d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Batter",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Gerhard Erasmus",
+    "Full Name": "Merwe Gerhard Erasmus",
+    "Age": "28y 44d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Jan Frylinck",
+    "Full Name": "Jan Nicolaas Frylinck",
+    "Age": "29y 49d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Allrounder",
+    "Education": "Boland Landbou",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "David Wiese",
+    "Full Name": "David Wiese",
+    "Age": "38y 7d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Allrounder",
+    "Education": "Witbank High",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "JJ Smit",
+    "Full Name": "Johannes Jonathan Smit",
+    "Age": "27y 196d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Medium fast",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Pathum Nissanka",
+    "Full Name": "Pathum Nissanka Silva",
+    "Age": "25y 7d",
+    "Batting Style": "Right hand Bat",
+    "Playing Role": "Top order Batter",
+    "Education": "Isipathana College, Colombo",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Kusal Mendis",
+    "Full Name": "Balapuwaduge Kusal Gimhan Mendis",
+    "Age": "28y 112d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Education": "Prince of Wales College, Moratuwa",
+    "RELATIONS": "BOL Mendis (brother)",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Dhananjaya de Silva",
+    "Full Name": "Dhananjaya Maduranga de Silva",
+    "Age": "31y 261d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Height": "5ft 8in",
+    "Education": "Debarawewa Central Hambantota, Mahanama College Colombo, Richmond College, Galle",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Danushka Gunathilaka",
+    "Full Name": "Mashtayage Danushka Gunathilaka",
+    "Age": "32y 69d",
+    "Nicknames": "Dana",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Height": "6ft 1in",
+    "Education": "Mahanama College, Colombo",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Bhanuka Rajapaksa",
+    "Full Name": "Pramod Bhanuka Bandara Rajapaksa",
+    "Age": "31y 213d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Top order Batter",
+    "Education": "Royal College, Colombo",
+    "RELATIONS": "SSB Rajapaksa (brother)",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Dasun Shanaka",
+    "Full Name": "Madagamagamage Dasun Shanaka",
+    "Age": "31y 258d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Allrounder",
+    "Height": "6ft ",
+    "Education": "St. Peters College - Negombo, Maristella College",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Wanindu Hasaranga",
+    "Full Name": "Pinnaduwage Wanindu Hasaranga de Silva",
+    "Age": "25y 300d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Allrounder",
+    "Education": "Richmond College, Galle",
+    "RELATIONS": "PC de Silva (brother)",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Chamika Karunaratne",
+    "Full Name": "Chamika Karunaratne",
+    "Age": "26y 361d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowling Allrounder",
+    "Education": "Royal College, Colombo",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Pramod Madushan",
+    "Full Name": "Pramod Madushan Liyanagamage",
+    "Age": "29y 162d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Education": "Theraputta National School, Hambantotha",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Dushmantha Chameera",
+    "Full Name": "Pathira Vasan Dushmantha Chameera",
+    "Age": "31y 134d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Height": "6ft ",
+    "Education": "Maris Stella College",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Maheesh Theekshana",
+    "Full Name": "Morawakage Maheesh Theekshana",
+    "Age": "22y 297d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Bowler",
+    "Education": "St. Benedict's College, Colombo",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Bernard Scholtz",
+    "Full Name": "Bernard Martinus Scholtz",
+    "Age": "32y 234d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "RELATIONS": "NRP Scholtz (brother)",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Ben Shikongo",
+    "Full Name": "Ben Shikongo",
+    "Age": "23y 17d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Chirag Suri",
+    "Full Name": "Chirag Suri",
+    "Age": "28y 96d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak, Legbreak Googly",
+    "Playing Role": "Opening Batter",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Muhammad Waseem",
+    "Full Name": "Muhammad Waseem",
+    "Age": "29y 102d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Opening Batter",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Kashif Daud",
+    "Full Name": "Kashif Daud",
+    "Age": "37y 104d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Vriitya Aravind",
+    "Full Name": "Vriitya Aravind",
+    "Age": "20y 348d",
+    "Batting Style": "Right hand Bat",
+    "Playing Role": "Wicketkeeper",
+    "Team": "United Arab Emirates XI"
+  },
+  {
+    "Name": "Zawar Farid",
+    "Full Name": "Zawar Farid",
+    "Age": "30y 304d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Bowler",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Basil Hameed",
+    "Full Name": "Basil Hameed",
+    "Age": "31y 40d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Chundangapoyil Rizwan",
+    "Full Name": "Chundangapoyil Puthiyapurayil Rizwan",
+    "Age": "35y 36d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak Googly",
+    "Playing Role": "Middle order Batter",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Aayan Afzal Khan",
+    "Full Name": "Aayan Afzal Khan",
+    "Age": "17y 191d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Karthik Meiyappan",
+    "Full Name": "Karthik Palaniapan Meiyappan",
+    "Age": "22y 229d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Bowler",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Junaid Siddique",
+    "Full Name": "Muhammad Junaid Siddique",
+    "Age": "30y 170d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Vikramjit Singh",
+    "Full Name": "Vikramjit Singh",
+    "Age": "20y 136d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Opening Batter",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Max O'Dowd",
+    "Full Name": "Maxwell Patrick O'Dowd",
+    "Age": "29y 82d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Opening Batter",
+    "Education": "Westlake Boys High School, Auckland",
+    "RELATIONS": "AP O'Dowd (father)",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Bas de Leede",
+    "Full Name": "Bas de Leede",
+    "Age": "23y 191d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Batting Allrounder",
+    "RELATIONS": "B de Leede (cousin),",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Colin Ackermann",
+    "Full Name": "Colin Niel Ackermann",
+    "Age": "32y 51d",
+    "Nicknames": "Ackers",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batting Allrounder",
+    "Education": "Grey High School, Port Elizabeth",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Tom Cooper",
+    "Full Name": "Tom Lexley William Cooper",
+    "Age": "36y 180d",
+    "Nicknames": "Coops",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Height": "1.87 m",
+    "Education": "University of NSW",
+    "RELATIONS": "BN Cooper (brother)",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Scott Edwards",
+    "Full Name": "Scott Andrew Edwards",
+    "Age": "26y 275d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Roelof van der Merwe",
+    "Full Name": "Roelof Erasmus van der Merwe",
+    "Age": "38y 145d",
+    "Also Known As": "Roela, Bulldog",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowling Allrounder",
+    "Education": "Waterkloof",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Tim Pringle",
+    "Full Name": "Timothy James Gerard Pringle",
+    "Age": "20y 269d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Allrounder",
+    "RELATIONS": "C Pringle (father)",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Logan van Beek",
+    "Full Name": "Logan Verjus van Beek",
+    "Age": "32y 260d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "RELATIONS": "SC Guillen (grandfather),",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Fred Klaassen",
+    "Full Name": "Frederick Jack Klaassen",
+    "Age": "30y 193d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Paul van Meekeren",
+    "Full Name": "Paul Adriaan van Meekeren",
+    "Age": "30y 130d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Zahoor Khan",
+    "Full Name": "Zahoor Khan",
+    "Age": "34y ",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "George Munsey",
+    "Full Name": "Henry George Munsey",
+    "Age": "30y 93d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Opening Batter",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Michael Jones",
+    "Full Name": "Michael Alexander Jones",
+    "Age": "25y 140d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Matthew Cross",
+    "Full Name": "Matthew Henry Cross",
+    "Age": "30y 222d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Richie Berrington",
+    "Full Name": "Richard Douglas Berrington",
+    "Age": "36y 52d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Top order Batter",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Calum MacLeod",
+    "Full Name": "Calum Scott MacLeod",
+    "Age": "34y 191d",
+    "Nicknames": "Cloudy, Highlander, Scot",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast, Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Michael Leask",
+    "Full Name": "Michael Alexander Leask",
+    "Age": "32y 208d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Chris Greaves",
+    "Full Name": "Christopher Nicholas Greaves",
+    "Age": "32y 225d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Bowler",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Kyle Mayers",
+    "Full Name": "Kyle Rico Mayers",
+    "Age": "30y 259d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Batting Allrounder",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Evin Lewis",
+    "Full Name": "Evin Lewis",
+    "Age": "31y 149d",
+    "Batting Style": "Left hand Bat",
+    "Playing Role": "Opening Batter",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Brandon King",
+    "Full Name": "Brandon Alexander King",
+    "Age": "28y 160d",
+    "Batting Style": "Right hand Bat",
+    "Playing Role": "Top order Batter",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Nicholas Pooran",
+    "Full Name": "Nicholas Pooran",
+    "Age": "27y 235d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Shamarh Brooks",
+    "Full Name": "Shamarh Shaqad Joshua Brooks",
+    "Age": "34y 236d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Rovman Powell",
+    "Full Name": "Rovman Powell",
+    "Age": "29y 306d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Middle order Batter",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Jason Holder",
+    "Full Name": "Jason Omar Holder",
+    "Age": "31y 201d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Akeal Hosein",
+    "Full Name": "Akeal Jerome Hosein",
+    "Age": "30y 30d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "Education": "Success Laventille Composite School",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Alzarri Joseph",
+    "Full Name": "Alzarri Shaheim Joseph",
+    "Age": "26y 186d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Odean Smith",
+    "Full Name": "Odean Fabian Smith",
+    "Age": "26y 205d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Obed McCoy",
+    "Full Name": "Obed  Christopher McCoy",
+    "Age": "26y 141d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Mark Watt",
+    "Full Name": "Mark Robert James Watt",
+    "Age": "26y 300d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Brad Wheal",
+    "Full Name": "Bradley Thomas James Wheal",
+    "Age": "26y 270d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Josh Davey",
+    "Full Name": "Joshua Henry Davey",
+    "Age": "32y 295d",
+    "Nicknames": "Wavey",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Education": "Culford School",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Safyaan Sharif",
+    "Full Name": "Safyaan Mohammed Sharif",
+    "Age": "32y 1d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "Scotland"
+  },
+  {
+    "Name": "Regis Chakabva",
+    "Full Name": "Regis Wiriranai Chakabva",
+    "Age": "35y 247d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Craig Ervine",
+    "Full Name": "Craig Richard Ervine",
+    "Age": "37y 279d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "RELATIONS": "SM Ervine (brother),",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Wessly Madhevere",
+    "Full Name": "Wessly Nyasha Madhevere",
+    "Age": "22y 263d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Sean Williams",
+    "Full Name": "Sean Colin Williams",
+    "Age": "36y 241d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Middle order Batter",
+    "RELATIONS": "CR Williams (father),",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Sikandar Raza",
+    "Full Name": "Sikandar Raza Butt",
+    "Age": "37y 31d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batting Allrounder",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Milton Shumba",
+    "Full Name": "Milton Shumba",
+    "Age": "22y 218d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Top order Batter",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Ryan Burl",
+    "Full Name": "Ryan Ponsonby Burl",
+    "Age": "29y 40d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Luke Jongwe",
+    "Full Name": "Luke Mafuwa Jongwe",
+    "Age": "28y 108d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Paul Stirling",
+    "Full Name": "Paul Robert Stirling",
+    "Age": "32y 264d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batting Allrounder",
+    "RELATIONS": "RB Stirling (brother)",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Andy Balbirnie",
+    "Full Name": "Andrew Balbirnie",
+    "Age": "32y 148d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Occasional Wicketkeeper",
+    "Playing Role": "Batter",
+    "Education": "St Andrew's College, Dublin",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Lorcan Tucker",
+    "Full Name": "Lorcan John Tucker",
+    "Age": "26y 257d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Harry Tector",
+    "Full Name": "Harry Tom Tector",
+    "Age": "23y 170d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "RELATIONS": "JB Tector (brother),",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Curtis Campher",
+    "Full Name": "Curtis Campher",
+    "Age": "24y 35d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Allrounder",
+    "Education": "St Peters",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "George Dockrell",
+    "Full Name": "George Henry Dockrell",
+    "Age": "30y 307d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Allrounder",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Gareth Delany",
+    "Full Name": "Gareth James Delany",
+    "Age": "26y 27d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak Googly",
+    "Playing Role": "Batting Allrounder",
+    "RELATIONS": "DC Delany (cousin),",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Mark Adair",
+    "Full Name": "Mark Richard Adair",
+    "Age": "27y 59d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowling Allrounder",
+    "RELATIONS": "GR Adair (brother)",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Simi Singh",
+    "Full Name": "Simi Singh",
+    "Age": "36y 110d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak, Legbreak Googly",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Barry McCarthy",
+    "Full Name": "Barry John McCarthy",
+    "Age": "30y 254d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "RELATIONS": "LN McCarthy (sister)",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Josh Little",
+    "Full Name": "Joshua Brian Little",
+    "Age": "23y 205d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Education": "St Andrew's College, Dublin",
+    "RELATIONS": "L Little (sister),",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Richard Ngarava",
+    "Full Name": "Richard Ngarava",
+    "Age": "25y 148d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Tendai Chatara",
+    "Full Name": "Tendai Larry Chatara",
+    "Age": "32y 86d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Blessing Muzarabani",
+    "Full Name": "Blessing Muzarabani",
+    "Age": "26y 235d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Timm van der Gugten",
+    "Full Name": "Timm van der Gugten",
+    "Age": "32y 89d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Height": "1.87 m",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Charith Asalanka",
+    "Full Name": "Kariyawasam Indipalage Charith Asalanka",
+    "Age": "25y 330d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batting Allrounder",
+    "Education": "Richmond College, Galle",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Aryan Lakra",
+    "Full Name": "Aryan Lakra",
+    "Age": "21y 163d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Johnson Charles",
+    "Full Name": "Johnson Charles",
+    "Age": "34y 131d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "West Indies"
+  },
+  {
+    "Name": "Tony Munyonga",
+    "Full Name": "Tony Tanaka Munyonga",
+    "Age": "24y 114d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Lahiru Kumara",
+    "Full Name": "Chandradasa Brahammana Ralalage Lahiru Sudesh Kumara",
+    "Age": "26y 101d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Education": "Trinity College, Kandy",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Binura Fernando",
+    "Full Name": "Binura Fernando",
+    "Age": "27y 317d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Medium fast",
+    "Playing Role": "Bowler",
+    "Height": "6ft 6in",
+    "Education": "DS Senanayake College, Colombo",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Alishan Sharafu",
+    "Full Name": "Alishan Sharafu",
+    "Age": "20y 135d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Opening Batter",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Zane Green",
+    "Full Name": "Zane Edward Green",
+    "Age": "26y 226d",
+    "Batting Style": "Left hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Education": "Windhoek High School",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Ruben Trumpelmann",
+    "Full Name": "Ruben Trumpelmann",
+    "Age": "25y 113d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Fast",
+    "Playing Role": "Bowler",
+    "Education": "Afrikaans Hoer Skool",
+    "Team": "Namibia"
+  },
+  {
+    "Name": "Ahmed Raza",
+    "Full Name": "Ahmed Raza",
+    "Age": "34y 227d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "Team": "United Arab Emirates"
+  },
+  {
+    "Name": "Finn Allen",
+    "Full Name": "Finnley Hugh Allen",
+    "Age": "24y 33d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Occasional Wicketkeeper",
+    "Playing Role": "Top order Batter",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Devon Conway",
+    "Full Name": "Devon Philip Conway",
+    "Age": "31y 321d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Fielding Position": "Occasional Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Kane Williamson",
+    "Full Name": "Kane Stuart Williamson",
+    "Age": "32y 290d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "RELATIONS": "D Cleaver (cousin)",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Glenn Phillips",
+    "Full Name": "Glenn Dominic Phillips",
+    "Age": "26y 170d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "RELATIONS": "DJ Grobbelaar (brother-in-law),",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "James Neesham",
+    "Full Name": "James Douglas Sheahan Neesham",
+    "Age": "32y 250d",
+    "Also Known As": "Jimmy Neesham",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Batting Allrounder",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "David Warner",
+    "Full Name": "David Andrew Warner",
+    "Age": "36y 210d",
+    "Nicknames": "Lloyd",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Opening Batter",
+    "Height": "1.7 m",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Aaron Finch",
+    "Full Name": "Aaron James Finch",
+    "Age": "36y 189d",
+    "Nicknames": "Finchy",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Top order Batter",
+    "Height": "1.74 m",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Mitchell Marsh",
+    "Full Name": "Mitchell Ross Marsh",
+    "Age": "31y 217d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Allrounder",
+    "RELATIONS": "GR Marsh (father),",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Glenn Maxwell",
+    "Full Name": "Glenn James Maxwell",
+    "Age": "34y 223d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batting Allrounder",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Marcus Stoinis",
+    "Full Name": "Marcus Peter Stoinis",
+    "Age": "33y 282d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Batting Allrounder",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Tim David",
+    "Full Name": "Timothy Hays David",
+    "Age": "27y 70d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Height": "6ft 5in",
+    "RELATIONS": "R David (father)",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Matthew Wade",
+    "Full Name": "Matthew Scott Wade",
+    "Age": "35y 150d",
+    "Nicknames": "Wadey",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Height": "1.7 m",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Pat Cummins",
+    "Full Name": "Patrick James Cummins",
+    "Age": "30y 17d",
+    "Nicknames": "Cummo",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Height": "1.92 m",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Mitchell Starc",
+    "Full Name": "Mitchell Aaron Starc",
+    "Age": "33y 115d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast",
+    "Playing Role": "Bowler",
+    "Height": "1.96 m",
+    "RELATIONS": "AJ Healy (wife)",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Adam Zampa",
+    "Full Name": "Adam Zampa",
+    "Age": "31y 55d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak Googly",
+    "Playing Role": "Bowler",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Josh Hazlewood",
+    "Full Name": "Josh Reginald Hazlewood",
+    "Age": "32y 137d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Height": "1.96 m",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Trent Boult",
+    "Full Name": "Trent Alexander Boult",
+    "Age": "33y 307d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "RELATIONS": "JJ Boult (brother)",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Tim Southee",
+    "Full Name": "Timothy Grant Southee",
+    "Age": "34y 165d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Mitchell Santner",
+    "Full Name": "Mitchell Josef Santner",
+    "Age": "31y 109d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowling Allrounder",
+    "RELATIONS": "EH Santner (brother)",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Lockie Ferguson",
+    "Full Name": "Lachlan Hammond Ferguson",
+    "Age": "31y 346d",
+    "Nicknames": "Lockie",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Ish Sodhi",
+    "Full Name": "Inderbir Singh Sodhi",
+    "Age": "30y 206d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Bowler",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Hazratullah Zazai",
+    "Full Name": "Hazratullah Zazai",
+    "Age": "25y 63d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Opening Batter",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Rahmanullah Gurbaz",
+    "Full Name": "Rahmanullah Gurbaz",
+    "Age": "21y 178d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "RELATIONS": "Masood Gurbaz (brother)",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Ibrahim Zadran",
+    "Full Name": "Ibrahim Zadran",
+    "Age": "21y 164d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Opening Batter",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Usman Ghani",
+    "Full Name": "Usman Ghani",
+    "Age": "26y 186d",
+    "Batting Style": "Right hand Bat",
+    "Playing Role": "Opening Batter",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Najibullah Zadran",
+    "Full Name": "Najibullah Zadran",
+    "Age": "30y 86d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Mohammad Nabi",
+    "Full Name": "Mohammad Nabi",
+    "Age": "38y 144d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "RELATIONS": "Hassan Eisakhil (son)",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Azmatullah Omarzai",
+    "Full Name": "Azmatullah Omarzai",
+    "Age": "23y 62d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Allrounder",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Rashid Khan",
+    "Full Name": "Rashid Khan Arman",
+    "Age": "24y 247d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak Googly",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Mujeeb Ur Rahman",
+    "Full Name": "Mujeeb Ur Rahman",
+    "Age": "22y 58d",
+    "Also Known As": "Mujeeb Zadran",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Bowler",
+    "RELATIONS": "Noor Ali Zadran (uncle)",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Fareed Ahmad",
+    "Full Name": "Fareed Ahmad Malik",
+    "Age": "28y 288d",
+    "Also Known As": "Farid Malik",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Fazalhaq Farooqi",
+    "Full Name": "Fazalhaq Farooqi",
+    "Age": "22y 245d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Jos Buttler",
+    "Full Name": "Joseph Charles Buttler",
+    "Age": "32y 259d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Education": "King's College, Taunton",
+    "Team": "England"
+  },
+  {
+    "Name": "Alex Hales",
+    "Full Name": "Alexander Daniel Hales",
+    "Age": "34y 142d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Fielding Position": "Occasional Wicketkeeper",
+    "Playing Role": "Opening Batter",
+    "Height": "6ft 5in",
+    "Team": "England"
+  },
+  {
+    "Name": "Dawid Malan",
+    "Full Name": "Dawid Johannes Malan",
+    "Age": "35y 264d",
+    "Nicknames": "AC",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Top order Batter",
+    "Height": "6ft ",
+    "Education": "Paarl Boys High School; UNISA",
+    "RELATIONS": "DJ Malan (father),",
+    "Team": "England"
+  },
+  {
+    "Name": "Ben Stokes",
+    "Full Name": "Benjamin Andrew Stokes",
+    "Age": "31y 355d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Allrounder",
+    "Team": "England"
+  },
+  {
+    "Name": "Liam Livingstone",
+    "Full Name": "Liam Stephen Livingstone",
+    "Age": "29y 294d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak, Legbreak",
+    "Playing Role": "Batting Allrounder",
+    "Team": "England"
+  },
+  {
+    "Name": "Harry Brook",
+    "Full Name": "Harry Cherrington Brook",
+    "Age": "24y 92d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Batter",
+    "Team": "England"
+  },
+  {
+    "Name": "Moeen Ali",
+    "Full Name": "Moeen Munir Ali",
+    "Age": "35y 341d",
+    "Nicknames": "Moe",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batting Allrounder",
+    "Height": "6ft ",
+    "Education": "Moseley School",
+    "RELATIONS": "OM Ali (brother),",
+    "Team": "England"
+  },
+  {
+    "Name": "Chris Woakes",
+    "Full Name": "Christopher Roger Woakes",
+    "Age": "34y 84d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Allrounder",
+    "Height": "6ft 2in",
+    "Team": "England"
+  },
+  {
+    "Name": "Mark Wood",
+    "Full Name": "Mark Andrew Wood",
+    "Age": "33y 134d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Education": "Ashington High School",
+    "RELATIONS": "N Wood (uncle)",
+    "Team": "England"
+  },
+  {
+    "Name": "Sam Curran",
+    "Full Name": "Samuel Matthew Curran",
+    "Age": "24y 356d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Medium fast",
+    "Playing Role": "Allrounder",
+    "Education": "Wellington College",
+    "RELATIONS": "TK Curran (brother),",
+    "Team": "England"
+  },
+  {
+    "Name": "Adil Rashid",
+    "Full Name": "Adil Usman Rashid",
+    "Age": "35y 97d",
+    "Nicknames": "Dilly, Hoover",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Bowler",
+    "Height": "5ft 8in",
+    "RELATIONS": "H Rashid (brother),",
+    "Team": "England"
+  },
+  {
+    "Name": "Mohammad Rizwan",
+    "Full Name": "Mohammad Rizwan",
+    "Age": "30y 358d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Babar Azam",
+    "Full Name": "Mohammad Babar Azam",
+    "Age": "28y 222d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Batter",
+    "RELATIONS": "Adnan Akmal (cousin),",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Shan Masood",
+    "Full Name": "Shan Masood Khan",
+    "Age": "33y 223d",
+    "Also Known As": "Shaan Masood",
+    "Nicknames": "Shaani",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Opening Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Iftikhar Ahmed",
+    "Full Name": "Iftikhar Ahmed",
+    "Age": "32y 264d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Shadab Khan",
+    "Full Name": "Shadab Khan",
+    "Age": "24y 233d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Haider Ali",
+    "Full Name": "Haider Ali",
+    "Age": "22y 235d",
+    "Batting Style": "Right hand Bat",
+    "Playing Role": "Middle order Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Mohammad Nawaz",
+    "Full Name": "Mohammad Nawaz",
+    "Age": "29y 65d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Allrounder",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Asif Ali",
+    "Full Name": "Asif Ali",
+    "Age": "31y 236d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Shaheen Shah Afridi",
+    "Full Name": "Shaheen Shah Afridi",
+    "Age": "23y 49d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast",
+    "Playing Role": "Bowler",
+    "RELATIONS": "Riaz Afridi (brother),",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Haris Rauf",
+    "Full Name": "Haris Rauf",
+    "Age": "29y 199d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Height": "5ft 11in",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "KL Rahul",
+    "Full Name": "Kannaur Lokesh Rahul",
+    "Age": "31y 37d",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "India"
+  },
+  {
+    "Name": "Rohit Sharma",
+    "Full Name": "Rohit Gurunath Sharma",
+    "Age": "36y 25d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "India"
+  },
+  {
+    "Name": "Virat Kohli",
+    "Full Name": "Virat Kohli",
+    "Age": "34y 201d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Top order Batter",
+    "Team": "India"
+  },
+  {
+    "Name": "Suryakumar Yadav",
+    "Full Name": "Suryakumar Ashok Yadav",
+    "Age": "32y 253d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium, Right arm Offbreak",
+    "Playing Role": "Batter",
+    "Team": "India"
+  },
+  {
+    "Name": "Axar Patel",
+    "Full Name": "Axar Rajeshbhai Patel",
+    "Age": "29y 125d",
+    "Also Known As": "Akshar Patel",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "India"
+  },
+  {
+    "Name": "Hardik Pandya",
+    "Full Name": "Hardik Himanshu Pandya",
+    "Age": "29y 226d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Allrounder",
+    "RELATIONS": "KH Pandya (brother)",
+    "Team": "India"
+  },
+  {
+    "Name": "Dinesh Karthik",
+    "Full Name": "Krishnakumar Dinesh Karthik",
+    "Age": "37y 358d",
+    "Also Known As": "Dinesh",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "India"
+  },
+  {
+    "Name": "Ravichandran Ashwin",
+    "Full Name": "Ravichandran Ashwin",
+    "Age": "36y 250d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "India"
+  },
+  {
+    "Name": "Bhuvneshwar Kumar",
+    "Full Name": "Bhuvneshwar Kumar Singh",
+    "Age": "33y 109d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Bowler",
+    "Team": "India"
+  },
+  {
+    "Name": "Arshdeep Singh",
+    "Full Name": "Arshdeep Singh",
+    "Age": "24y 109d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "India"
+  },
+  {
+    "Name": "Mohammed Shami",
+    "Full Name": "Mohammed Shami Ahmed",
+    "Age": "32y 264d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "RELATIONS": "Mohammed Kaif (brother)",
+    "Team": "India"
+  },
+  {
+    "Name": "Naseem Shah",
+    "Full Name": "Naseem Shah",
+    "Age": "20y 99d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Najmul Hossain Shanto",
+    "Full Name": "Najmul Hossain Shanto",
+    "Age": "24y 273d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Soumya Sarkar",
+    "Full Name": "Soumya Sarkar",
+    "Age": "30y 89d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Middle order Batter",
+    "Height": "5ft 10in",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Litton Das",
+    "Full Name": "Litton Kumer Das",
+    "Age": "28y 224d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Shakib Al Hasan",
+    "Full Name": "Shakib Al Hasan",
+    "Age": "36y 62d",
+    "Also Known As": "Saqibul Hasan",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Allrounder",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Afif Hossain",
+    "Full Name": "Afif Hossain Dhrubo",
+    "Age": "23y 245d",
+    "Nicknames": "Dhrubo",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Yasir Ali",
+    "Full Name": "Yasir Ali Chowdhury",
+    "Age": "26y 356d",
+    "Also Known As": "Yasir Ali Rabbi",
+    "Nicknames": "Rabbi",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Nurul Hasan",
+    "Full Name": "Quazi Nurul Hasan",
+    "Age": "29y 185d",
+    "Nicknames": "Sohan",
+    "Batting Style": "Right hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Mosaddek Hossain",
+    "Full Name": "Mosaddek Hossain Saikat",
+    "Age": "27y 166d",
+    "Nicknames": "Saikat",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Taskin Ahmed",
+    "Full Name": "Taskin Ahmed",
+    "Age": "28y 52d",
+    "Nicknames": "Tazin",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Hasan Mahmud",
+    "Full Name": "Hasan Mahmud",
+    "Age": "23y 225d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Shariz Ahmad",
+    "Full Name": "Shariz Ahmad",
+    "Age": "20y 34d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Legbreak Googly",
+    "Playing Role": "Bowler",
+    "RELATIONS": "Musa Ahmed (brother)",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Mustafizur Rahman",
+    "Full Name": "Mustafizur Rahman",
+    "Age": "27y 261d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Fast medium",
+    "Playing Role": "Bowler",
+    "Height": "5ft 11in",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Quinton de Kock",
+    "Full Name": "Quinton de Kock",
+    "Age": "30y 159d",
+    "Batting Style": "Left hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Temba Bavuma",
+    "Full Name": "Temba Bavuma",
+    "Age": "33y 8d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Middle order Batter",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Kagiso Rabada",
+    "Full Name": "Kagiso Rabada",
+    "Age": "28y ",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Wayne Parnell",
+    "Full Name": "Wayne Dillon Parnell",
+    "Age": "33y 299d",
+    "Nicknames": "Pigeon, Parny",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Medium fast",
+    "Playing Role": "Bowler",
+    "Education": "Grey High School",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Lungi Ngidi",
+    "Full Name": "Lungisani True-man Ngidi",
+    "Age": "27y 57d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Keshav Maharaj",
+    "Full Name": "Keshav Athmanand Maharaj",
+    "Age": "33y 107d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Anrich Nortje",
+    "Full Name": "Anrich Arno Nortje",
+    "Age": "29y 190d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Ashton Agar",
+    "Full Name": "Ashton Charles Agar",
+    "Age": "29y 223d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "RELATIONS": "WA Agar (brother)",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Fionn Hand",
+    "Full Name": "Fionn Hand",
+    "Age": "24y 328d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Bowling Allrounder",
+    "Team": "Ireland"
+  },
+  {
+    "Name": "Rilee Rossouw",
+    "Full Name": "Rilee Roscoe Rossouw",
+    "Age": "33y 228d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Tristan Stubbs",
+    "Full Name": "Tristan Stubbs",
+    "Age": "22y 284d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Education": "Knysna Primary School",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Aiden Markram",
+    "Full Name": "Aiden Kyle Markram",
+    "Age": "28y 233d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Opening Batter",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "David Miller",
+    "Full Name": "David Andrew Miller",
+    "Age": "33y 349d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Middle order Batter",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Mehidy Hasan Miraz",
+    "Full Name": "Mehidy Hasan Miraz",
+    "Age": "25y 212d",
+    "Nicknames": "Miraz",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Tabraiz Shamsi",
+    "Full Name": "Tabraiz Shamsi",
+    "Age": "33y 96d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Left arm Wrist spin",
+    "Playing Role": "Bowler",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Brad Evans",
+    "Full Name": "Brad Evans",
+    "Age": "26y 62d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Allrounder",
+    "RELATIONS": "CN Evans (father)",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Mohammad Wasim",
+    "Full Name": "Mohammad Wasim",
+    "Age": "21y 273d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Allrounder",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Daryl Mitchell",
+    "Full Name": "Daryl Joseph Mitchell",
+    "Age": "32y 5d",
+    "Nicknames": "Moose",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium",
+    "Playing Role": "Allrounder",
+    "Team": "New Zealand"
+  },
+  {
+    "Name": "Kasun Rajitha",
+    "Full Name": "Chandrasekara Arachchilage Kasun Rajitha",
+    "Age": "29y 358d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Education": "St. Servatius College",
+    "Team": "Sri Lanka"
+  },
+  {
+    "Name": "Stephan Myburgh",
+    "Full Name": "Stephanus Johannes Myburgh",
+    "Age": "39y 86d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Opening Batter",
+    "RELATIONS": "JG Myburgh (brother)",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Fakhar Zaman",
+    "Full Name": "Fakhar Zaman",
+    "Age": "33y 45d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Opening Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Brandon Glover",
+    "Full Name": "Brandon Dale Glover",
+    "Age": "26y 52d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast",
+    "Playing Role": "Bowler",
+    "Education": "St Stithians",
+    "Team": "Netherlands"
+  },
+  {
+    "Name": "Deepak Hooda",
+    "Full Name": "Deepak Jagbir Hooda",
+    "Age": "28y 36d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Allrounder",
+    "Team": "India"
+  },
+  {
+    "Name": "Gulbadin Naib",
+    "Full Name": "Gulbadin Naib",
+    "Age": "31y 355d",
+    "Also Known As": "Gulbadeen Naib",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Batting Allrounder",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Shoriful Islam",
+    "Full Name": "Mohammad Shoriful Islam",
+    "Age": "21y 356d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Left arm Medium fast",
+    "Playing Role": "Bowler",
+    "Height": "6ft 3in",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Mohammad Haris",
+    "Full Name": "Mohammad Haris",
+    "Age": "22y 56d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Occasional Wicketkeeper",
+    "Playing Role": "Middle order Batter",
+    "Team": "Pakistan"
+  },
+  {
+    "Name": "Heinrich Klaasen",
+    "Full Name": "Heinrich Klaasen",
+    "Age": "31y 299d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Education": "High School Menlopark",
+    "Team": "South Africa"
+  },
+  {
+    "Name": "Cameron Green",
+    "Full Name": "Cameron Donald Green",
+    "Age": "23y 356d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Batting Allrounder",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Steven Smith",
+    "Full Name": "Steven Peter Devereux Smith",
+    "Age": "33y 357d",
+    "Also Known As": "Steve Smith",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Legbreak Googly",
+    "Playing Role": "Middle order Batter",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Kane Richardson",
+    "Full Name": "Kane William Richardson",
+    "Age": "32y 102d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "RELATIONS": "CJ Richardson (brother)",
+    "Team": "Australia"
+  },
+  {
+    "Name": "Darwish Rasooli",
+    "Full Name": "Darwish Rasooli",
+    "Age": "23y 164d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Playing Role": "Top order Batter",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Naveen-ul-Haq",
+    "Full Name": "Naveen-ul-Haq Murid",
+    "Age": "23y 244d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Medium fast",
+    "Playing Role": "Bowler",
+    "Team": "Afghanistan"
+  },
+  {
+    "Name": "Nasum Ahmed",
+    "Full Name": "Nasum Ahmed",
+    "Age": "28y 171d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Ebadot Hossain",
+    "Full Name": "Ebadot Hossain Chowdhury",
+    "Age": "29y 138d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Team": "Bangladesh"
+  },
+  {
+    "Name": "Rishabh Pant",
+    "Full Name": "Rishabh Rajendra Pant",
+    "Age": "25y 233d",
+    "Batting Style": "Left hand Bat",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Team": "India"
+  },
+  {
+    "Name": "Wellington Masakadza",
+    "Full Name": "Wellington Pedzisai Masakadza",
+    "Age": "29y 233d",
+    "Batting Style": "Left hand Bat",
+    "Bowling Style": "Slow Left arm Orthodox",
+    "Playing Role": "Bowler",
+    "RELATIONS": "H Masakadza (brother),",
+    "Team": "Zimbabwe"
+  },
+  {
+    "Name": "Chris Jordan",
+    "Full Name": "Christopher James Jordan",
+    "Age": "34y 233d",
+    "Nicknames": "CJ",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Fast medium",
+    "Playing Role": "Bowler",
+    "Height": "6ft 2in",
+    "Education": "Dulwich College",
+    "Team": "England"
+  },
+  {
+    "Name": "Phil Salt",
+    "Full Name": "Philip Dean Salt",
+    "Age": "26y 270d",
+    "Batting Style": "Right hand Bat",
+    "Bowling Style": "Right arm Offbreak",
+    "Fielding Position": "Wicketkeeper",
+    "Playing Role": "Wicketkeeper Batter",
+    "Education": "Reeds School, Surrey",
+    "Team": "England"
+  }
+]
