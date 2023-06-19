@@ -10,3 +10,6 @@ You can view these dashboards by downloading "t20wc_best 11.pbix" file and openi
         I used Pandas to perform data cleaning and preprocessing on the JSON files that we got from above steps and saved them as CSV files.
   3. Power BI:
         Power BI is used to build dashboards using preprocessed CSV files to showcase players performance and finalise Best 11 players that played 2022 T20 World             Cup.
+        
+  Dashboard will look like:
+  ![sample-dashboard](/repository/sample_dashboard.png?raw=true "Sample Dashboard")
