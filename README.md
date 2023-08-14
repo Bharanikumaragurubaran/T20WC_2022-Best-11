@@ -17,4 +17,4 @@ Created own datasets using web-scraping
   
   <img src="sample_dashboard.png" alt="Sample Dashboard" title="Sample Dashboard" height=300px width=660px>
   
-  Final dashboard: <a href = "t20wc_best 11.pbix">T20WC Best 11</a>
+  Final dashboard: <a href = "https://www.novypro.com/project/t20wc-2022---best-11">T20WC Best 11</a>
