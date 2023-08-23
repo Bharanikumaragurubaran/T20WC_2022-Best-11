@@ -2,7 +2,6 @@
 Here we have collected entire 2022 T20 World cup data to finalise best 11 players who can win any team in a T20 match.
 ## Setup
 Here I have used Power BI to build dashboards which will showcase every players performance throughout the 2022 Worldcup, based on their performance we would have finalised Best 11 players. 
-You can view these dashboards by downloading "t20wc_best 11.pbix" file and opening it in Power BI app.
 ## Datasets used
 Created own datasets using web-scraping
 ## Process involved in finalizing best 11 players
